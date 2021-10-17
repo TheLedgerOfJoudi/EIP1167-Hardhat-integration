@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/home/hadi/Desktop/Dev/EIP1167/contracts/CloneFactory.sol": {
-      "lastModificationDate": 1634456040607,
+    "/home/hadi/Desktop/Dev/EIP1167-Hardhat-integration/contracts/CloneFactory.sol": {
+      "lastModificationDate": 1634464329748,
       "contentHash": "b15db709a3d3d0b9212e54f762011ded",
       "sourceName": "contracts/CloneFactory.sol",
       "solcConfig": {
@@ -35,8 +35,8 @@
         "CloneFactory"
       ]
     },
-    "/home/hadi/Desktop/Dev/EIP1167/contracts/Factory.sol": {
-      "lastModificationDate": 1634456149483,
+    "/home/hadi/Desktop/Dev/EIP1167-Hardhat-integration/contracts/Factory.sol": {
+      "lastModificationDate": 1634464329748,
       "contentHash": "3943686b7a9d566eab01eb1cbd4f8fee",
       "sourceName": "contracts/Factory.sol",
       "solcConfig": {
@@ -72,8 +72,8 @@
         "Factory"
       ]
     },
-    "/home/hadi/Desktop/Dev/EIP1167/contracts/Setter.sol": {
-      "lastModificationDate": 1634458610671,
+    "/home/hadi/Desktop/Dev/EIP1167-Hardhat-integration/contracts/Setter.sol": {
+      "lastModificationDate": 1634464329748,
       "contentHash": "b6f6a06aeb58e276004402ff5ac5f712",
       "sourceName": "contracts/Setter.sol",
       "solcConfig": {

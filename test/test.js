@@ -20,7 +20,7 @@ describe('Setter contract test', () => {
     })
 })
 
-describe('Factory contract test', async () => {
+describe('Factory contract test', () => {
 
     beforeEach(async () => {
         Setter = await ethers.getContractFactory('Setter')
@@ -30,10 +30,10 @@ describe('Factory contract test', async () => {
 
     })
 
-    describe('Factory contract works', async () => {
-        it('should be sth', async () => {
+    describe('Factory contract works', () => {
+        it('should assign owner and create three clones', async () => {
             await factory.owner().then(res => {
-                expect(res).to.not.equal('0x0')
+                expect(res).to.not.equal('0x0000000000000000000000000000000000000000')
             })
 
             await factory.createNewSetter();
